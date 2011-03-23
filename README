@@ -1,0 +1,3 @@
+Verifying the lemma: 
+
+Lemma. If a Functor which is both Traversable and Monoid, the Functor can be a Monad.
